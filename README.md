@@ -1,4 +1,4 @@
-# Module: italian language package
+# Module: Artikelabhängige Versandkosten - "gambioultra"
 (DE): Modul: Artikelabhängige Versandkosten - "gambioultra"
 
 Source modified Forum: [Artikelabhängige Versandkosten - "gambioultra" für modified eCommerce Shopsoftware](https://www.modified-shop.org/forum/index.php?PHPSESSID=280b7453e06ec8056e5fd3f5431f4c1c&topic=4243.msg43166#msg43166)
